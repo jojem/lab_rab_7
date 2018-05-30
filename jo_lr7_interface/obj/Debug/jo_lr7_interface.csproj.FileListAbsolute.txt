@@ -1,0 +1,13 @@
+F:\4 семестр\технологии программирования\lr7_jo_interface\jo_lr7_interface\jo_lr7_interface\bin\Debug\jo_lr7_interface.exe.config
+F:\4 семестр\технологии программирования\lr7_jo_interface\jo_lr7_interface\jo_lr7_interface\bin\Debug\jo_lr7_interface.exe
+F:\4 семестр\технологии программирования\lr7_jo_interface\jo_lr7_interface\jo_lr7_interface\bin\Debug\jo_lr7_interface.pdb
+F:\4 семестр\технологии программирования\lr7_jo_interface\jo_lr7_interface\jo_lr7_interface\obj\Debug\jo_lr7_interface.csprojResolveAssemblyReference.cache
+F:\4 семестр\технологии программирования\lr7_jo_interface\jo_lr7_interface\jo_lr7_interface\obj\Debug\jo_lr7_interface.exe
+F:\4 семестр\технологии программирования\lr7_jo_interface\jo_lr7_interface\jo_lr7_interface\obj\Debug\jo_lr7_interface.pdb
+E:\4 семестр\технологии программирования\lr7_jo_interface\jo_lr7_interface\jo_lr7_interface\bin\Debug\jo_lr7_interface.exe.config
+E:\4 семестр\технологии программирования\lr7_jo_interface\jo_lr7_interface\jo_lr7_interface\bin\Debug\jo_lr7_interface.exe
+E:\4 семестр\технологии программирования\lr7_jo_interface\jo_lr7_interface\jo_lr7_interface\bin\Debug\jo_lr7_interface.pdb
+E:\4 семестр\технологии программирования\lr7_jo_interface\jo_lr7_interface\jo_lr7_interface\obj\Debug\jo_lr7_interface.csprojResolveAssemblyReference.cache
+E:\4 семестр\технологии программирования\lr7_jo_interface\jo_lr7_interface\jo_lr7_interface\obj\Debug\jo_lr7_interface.csproj.CoreCompileInputs.cache
+E:\4 семестр\технологии программирования\lr7_jo_interface\jo_lr7_interface\jo_lr7_interface\obj\Debug\jo_lr7_interface.exe
+E:\4 семестр\технологии программирования\lr7_jo_interface\jo_lr7_interface\jo_lr7_interface\obj\Debug\jo_lr7_interface.pdb
